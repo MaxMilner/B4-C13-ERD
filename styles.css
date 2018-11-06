@@ -1,0 +1,15 @@
+body {
+  background-color:black;
+  color: magenta;
+  text-align: center;
+}
+
+#card {
+  border-style: solid dotted;
+  border-color: magenta;
+  border-width: 2px;
+  margin: 25px;
+  padding: 55px;
+  margin-left: 350px;
+  margin-right: 350px;
+}

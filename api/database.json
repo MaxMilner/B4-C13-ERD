@@ -1,0 +1,65 @@
+{
+"employee": [ 
+  {
+    "id": 1,
+    "name": "John Wayne Glover",
+    "title": "Manager",
+    "department_ID": 1,
+    "cpu_ID": 2
+  },
+  {
+    "id": 2,
+    "name": "Michel Fourniret",
+    "title": "Receptionist",
+    "department_ID": 2,
+    "cpu_ID": 1
+  },
+  {
+    "id": 3,
+    "name": "Albert Fish",
+    "title": "Salesman",
+    "department_ID": 3,
+    "cpu_ID": 2
+  },
+  {
+    "id": 4,
+    "name": "Marcos Antunes Trigueiro",
+    "title": "Staffer",
+    "department_ID": 1,
+    "cpu_ID": 1
+  },
+  {
+    "id": 5,
+    "name": "Patrick Kearney",
+    "title": "Salesman",
+    "department_ID": 3,
+    "cpu_ID": 1
+  }
+],
+
+"department": [
+  {
+  "id": 1,
+  "name": "Management"
+  },
+  {
+   "id": 2,
+   "name": "HR"
+  },
+  {
+   "id": 3,
+   "name": "Sales"
+  }
+  ],
+
+"cpu": [
+ {
+  "id": 1,
+  "model": "Mac"
+ },
+ {
+   "id": 2,
+   "model": "Windows"
+ }
+ ]
+}
